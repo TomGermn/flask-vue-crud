@@ -32,4 +32,4 @@ Check out the [tutorial](https://testdriven.io/developing-a-single-page-app-with
 
 ## Tests ajoutés
 - Mise en place d'une pipeline avec GitHub Actions
-- Ajoutes de tests avec pytest (tests des routes + test de la fonction remove_book)
+- Ajout de tests avec pytest (tests des routes + test de la fonction remove_book)
