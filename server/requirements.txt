@@ -1,2 +1,5 @@
 Flask==2.2.3
 Flask-Cors==3.0.10
+werkzeug==2.2.3
+pytest
+pytest-html
