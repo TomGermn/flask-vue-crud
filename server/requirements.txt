@@ -1,5 +1,8 @@
 Flask==2.2.3
 Flask-Cors==3.0.10
+<<<<<<< HEAD
 werkzeug==2.2.3
+=======
+>>>>>>> 4a758ac964a0c67f0cec3d0e8b651a22582d03e5
 pytest
 pytest-html
