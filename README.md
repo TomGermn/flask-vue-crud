@@ -29,3 +29,7 @@ Check out the [tutorial](https://testdriven.io/developing-a-single-page-app-with
     ```
 
     Navigate to [http://localhost:5173](http://localhost:5173)
+
+## Tests ajoutés
+- Mise en place d'une pipeline avec GitHub Actions
+- Ajoutes de tests avec pytest (tests des routes + test de la fonction remove_book)
